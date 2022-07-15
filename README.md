@@ -19,3 +19,4 @@ Before I begin, I predict that based on what we have discussed in class, the ran
 * (Instruction folder contains class assignment instructions)
 
 # Results/Discussion
+The models were extremely similar, both very well suited to the data (model scores >.99). However, in this case, the logistic regression model performed slightly better. I also attempted scaling and feature selection to see what effect they might have - in both cases they decreased the model score. 
